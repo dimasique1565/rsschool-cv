@@ -1,5 +1,13 @@
 **Name: Dmitry Velkov**
 
+**My Contacs:**
+| Source | Links |
+| ------ | ------ |
+| GitHub | https://github.com/dimasique1565|
+| email |velkov2000@list.ru |
+| vk |https://vk.com/zeloveze|
+| Phone number | +375(33)3411946 |
+
 **Summary**
 >I am interested in Front- and Back-end development. 
 I want to improve my skills, learn more about software 
