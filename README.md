@@ -1,1 +1,1 @@
-# https://github.com/dimasique1565/rsschool-cv
+# https://dimasique1565.github.io/rsschool-cv/
