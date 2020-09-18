@@ -15,7 +15,7 @@ development, become a part of developers community and
 participate in some projects.
 My positive sides: teamwork skills, non-conflict, fast adaptation,
 self-study skill.
-My negative sides: emotionality. 
+My negative sides: meme addiction. 
 
 **Skills**
 - **Languages:** C++, JavaScript, SQL, PHP, CSS, HTML
@@ -33,7 +33,7 @@ Object-oriented analysis and software design. Online store software.
 Minsk, Belarus — Third-year student of Automated Information 
 Processing Systems
 - Сourses in Itransition (PHP, Javascript)
-- Some online-courses
+- Some online-courses on Youtube(HTML, CSS, JS, PHP)
 
 **English**
 
